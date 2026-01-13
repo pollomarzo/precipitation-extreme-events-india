@@ -1,0 +1,41 @@
+version: 1
+extends:
+- https://raw.githubusercontent.com/pollomarzo/scholar-nexus/main/nexus.yml
+
+project:
+  authors:
+  - name: Stefy Thomas
+    email: stefythomas@cusat.ac.in
+    affiliations:
+    - Cochin University of Science and Technology
+    corresponding: true
+  - name: Khushi Dani
+    affiliations:
+    - IIT Bombay
+  - name: Sattiki Ganguly
+    affiliations:
+    - Arthan
+  - name: Pandurang Choudhari
+    affiliations:
+    - University of Mumbai
+  - name: Risa Madoff
+    affiliations:
+    - University of North Dakota
+
+  id: precipitation-extreme-events-india
+  title: Assessing Spatio-Temporal Precipitation Variability and Extreme Events in India
+  github: https://github.com/pollomarzo/precipitation-extreme-events-india
+  downloads:
+  - file: CISP2024-Precipitation-Extreme-Events-India-code.zip
+    title: Code
+  - file: CISP2024-Precipitation-Extreme-Events-India-supplementary-figures.docx
+    title: Supplementary figures
+  bibliography:
+  - bib.bib
+  # plugins:
+  # - github-issues.mjs
+
+site:
+  template: book-theme
+  options:
+    hide_toc: true
