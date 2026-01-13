@@ -1,8 +1,6 @@
-title: Assessing Spatio-Temporal Precipitation Variability and Extreme Events in India
-description: |
-  A comprehensive analysis of extreme precipitation events across India from 1901 to 2022, examining spatial and temporal trends using Mann-Kendall statistics. The study investigates regional variations in extreme rainfall patterns across Northwest, Northeast, Central, and Southern Peninsular India, revealing an overall increasing trend in extreme precipitation events.
 thumbnail: CISP2024-Precipitation-Extreme-Events-India-figure.png
 tags:
+  domains:
   - Climate Change
   - Precipitation
   - Extreme Events
@@ -11,9 +9,7 @@ tags:
   - Monsoon
   - Spatial Analysis
   - Time Series
-authors:
-  - Stefy Thomas
-  - Khushi Dani
-  - Sattiki Ganguly
-  - Pandurang Choudhari
-  - Risa Madoff
+  packages:
+  - package1
+  - p2
+  - p3
