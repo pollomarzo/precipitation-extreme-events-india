@@ -6,10 +6,6 @@ on:
       - main
   workflow_dispatch:
 
-env:
-  SITE_PREFIX: /${{ github.event.repository.name }}
-  BASE_URL: "/${{ github.event.repository.name }}"
-
 permissions:
   contents: read
   pages: write
@@ -18,3 +14,5 @@ permissions:
 jobs:
   deploy:
     uses: pollomarzo/scholar-nexus-paper-config/.github/workflows/deploy-paper.yml@main
+    with:
+      base_url: /${{ github.event.repository.name }}
