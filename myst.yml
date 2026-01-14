@@ -26,17 +26,23 @@ project:
   id: precipitation-extreme-events-india
   title: Assessing Spatio-Temporal Precipitation Variability and Extreme Events in India
   github: https://github.com/pollomarzo/precipitation-extreme-events-india
-  downloads:
-  - file: CISP2024-Precipitation-Extreme-Events-India-code.zip
-    title: Code
-  - file: CISP2024-Precipitation-Extreme-Events-India-supplementary-figures.docx
-    title: Supplementary figures
   bibliography:
   - bib.bib
   exports:
   - format: typst
+    id: typst-pdf
   - format: pdf
     template: arxiv_two_column
+    id: latex-pdf
+  downloads:
+  - id: typst-pdf
+    title: PDF (Typst template)
+  - id: latex-pdf
+    title: PDF (Latex arxiv template)
+  - file: CISP2024-Precipitation-Extreme-Events-India-code.zip
+    title: Code
+  - file: CISP2024-Precipitation-Extreme-Events-India-supplementary-figures.docx
+    title: Supplementary figures
 
 site:
   template: book-theme
