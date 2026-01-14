@@ -3,7 +3,10 @@ title: Assessing Spatio-Temporal Precipitation Variability and Extreme Events in
 abstract: |
    The Argentinian Andean-Patagonian Forest (AAPF) is a highly biodiverse temperate forest in South America. This area is being threatened by the intensification of climatic conditions that favor the occurrence of fires. However, assessing AAPF burned areas is challenging due to a high climatological and geographic variability. Previous analyses were focused on smaller regions. In this study, a latitudinal (north to south) characterization of the burned area distribution in the AAPF region is proposed. Satellite-derived burned area data was analyzed for the 2001-2019 fire seasons. Two key areas impacted by fires were identified, highlighting the northern AAPF as the most affected region. This study also revealed the intricate relationship between fires and climatic and geographic variability. The results of this assessment can serve as a basis for future research on climate change impacts and fire risk prediction in AAPF, emphasizing the need for informed conservation strategies in this ecologically important region.
 keywords:
-   Argentina, Fires, Patagonian Forest, Satellite Imaging
+   - Argentina
+   - Fires
+   - Patagonian Forest
+   - Satellite Imaging
 ---
 
 # Introduction and Motivation
@@ -64,23 +67,27 @@ Positive trends in extreme rainfall were observed across all regions, showcasing
 
 1. Northwest India:
 
-Observation: The color scale ranging from -0.05 to 0.35 indicates a generally positive trend in extreme rainfall.\
-Interpretation: Northwest India is experiencing an overall increase in extreme rainfall events. Areas with warmer colors, closer to 0.35, demonstrate a more pronounced upward trend.
+   Observation: The color scale ranging from -0.05 to 0.35 indicates a generally positive trend in extreme rainfall.
+
+   Interpretation: Northwest India is experiencing an overall increase in extreme rainfall events. Areas with warmer colors, closer to 0.35, demonstrate a more pronounced upward trend.
 
 2. Northeast India:
 
-Observation: The color scale ranges from -0.5 to 0.35 with an interval of 0.10, suggesting a diverse range of trends.\
-Interpretation: Northeast India shows variability in extreme rainfall trends. Areas with warmer colors (closer to 0.35) exhibit a more substantial increase, while cooler colors (closer to -0.5) suggest a less pronounced upward trend.
+   Observation: The color scale ranges from -0.5 to 0.35 with an interval of 0.10, suggesting a diverse range of trends.
+
+   Interpretation: Northeast India shows variability in extreme rainfall trends. Areas with warmer colors (closer to 0.35) exhibit a more substantial increase, while cooler colors (closer to -0.5) suggest a less pronounced upward trend.
 
 3. Central India:
 
-Observation: The color scale ranges from -0.08 to 0.06, indicating a range of positive trends.\
-Interpretation: Central India demonstrates an overall positive trend in extreme rainfall. Areas with warmer colors, closer to 0.06, show a more significant increase, while those with cooler colors, closer to -0.08, exhibit a less pronounced upward trend.
+   Observation: The color scale ranges from -0.08 to 0.06, indicating a range of positive trends.
+
+   Interpretation: Central India demonstrates an overall positive trend in extreme rainfall. Areas with warmer colors, closer to 0.06, show a more significant increase, while those with cooler colors, closer to -0.08, exhibit a less pronounced upward trend.
 
 4. Southern Peninsular India:
 
-Observation: The color scale ranges from -0.100 to 0.075, showing a diversity of trends.\
-Interpretation: Southern Peninsular India reveals variability in extreme rainfall trends. Warmer colors (closer to 0.075) signify a more substantial increase, while cooler colors (closer to -0.100) suggest a less pronounced upward trend.
+   Observation: The color scale ranges from -0.100 to 0.075, showing a diversity of trends.
+
+   Interpretation: Southern Peninsular India reveals variability in extreme rainfall trends. Warmer colors (closer to 0.075) signify a more substantial increase, while cooler colors (closer to -0.100) suggest a less pronounced upward trend.
 
 ## Comparison: CHIRPS vs IMD dataset
 
