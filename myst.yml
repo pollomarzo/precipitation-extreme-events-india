@@ -1,6 +1,7 @@
 version: 1
 extends:
 - https://raw.githubusercontent.com/pollomarzo/scholar-nexus/main/nexus.yml
+# - https://raw.githubusercontent.com/pollomarzo/scholar-nexus-paper-config/main/paper-base.yml
 
 project:
   authors:
@@ -32,8 +33,10 @@ project:
     title: Supplementary figures
   bibliography:
   - bib.bib
-  # plugins:
-  # - github-issues.mjs
+  exports:
+  - format: typst
+  - format: pdf
+    template: arxiv_two_column
 
 site:
   template: book-theme
