@@ -1,7 +1,7 @@
 version: 1
 extends:
 - https://raw.githubusercontent.com/pollomarzo/scholar-nexus/main/nexus.yml
-# - https://raw.githubusercontent.com/pollomarzo/scholar-nexus-paper-config/main/paper-base.yml
+- https://raw.githubusercontent.com/pollomarzo/scholar-nexus-paper-config/main/paper-base.yml
 
 project:
   authors:
@@ -28,23 +28,8 @@ project:
   github: https://github.com/pollomarzo/precipitation-extreme-events-india
   bibliography:
   - bib.bib
-  exports:
-  - format: typst
-    id: typst-pdf
-  - format: pdf
-    template: arxiv_two_column
-    id: latex-pdf
   downloads:
-  - id: typst-pdf
-    title: PDF (Typst template)
-  - id: latex-pdf
-    title: PDF (Latex arxiv template)
   - file: CISP2024-Precipitation-Extreme-Events-India-code.zip
     title: Code
   - file: CISP2024-Precipitation-Extreme-Events-India-supplementary-figures.docx
     title: Supplementary figures
-
-site:
-  template: book-theme
-  options:
-    hide_toc: true
