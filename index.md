@@ -9,6 +9,15 @@ keywords:
    - Satellite Imaging
 ---
 
+# Seminar presentation
+```{iframe} https://www.youtube.com/embed/csPZujmCpz4
+:width: 100%
+
+This article was presented as part of a series of seminars chaired by scientists from Climatematch Academy’s collaborating organizations, CMIP (Couple Model Intercomparison Project) and LEAP (Learning the Earth with Artificial Intelligence and Physics).
+```
+
+
+
 # Introduction and Motivation
 
 India's extensive geographical diversity and climate variations make it crucial to examine the fluctuations in climate patterns due to anthropogenic climate change. India lies between latitudes 8°4′ N and 37°6′ N and longitudes 68°7′ E and 97°25′ E. Further, India's significant portion of the population relies on agriculture, which is primarily dependent on rainfall. Extreme weather events are creating a huge impact on communities across the world. In India, climate change-related extreme precipitation has led to the loss of 130,000 lives alone over the last 50 years. Additionally, damage to crops has led to the loss of revenue to the exchequer of $159 billion in agriculture, manufacturing and the service industry in 2021. This year alone we have witnessed cyclones, extreme flooding, and heatwaves. We know from prevailing research that the most marginal communities suffer the worst consequences of extreme precipitation events either due to income instability, loss of shelter or food insecurity. Thus analyzing shifts in precipitation patterns across different regions and time periods is vital to understanding their impact on the environment, society, and the economy.
