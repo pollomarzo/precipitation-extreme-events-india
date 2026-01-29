@@ -35,3 +35,7 @@ project:
     title: Code
   - file: CISP2024-Precipitation-Extreme-Events-India-supplementary-figures.docx
     title: Supplementary figures
+  keywords:
+    - India
+    - Extreme Weather
+    - CHIRPS Data
